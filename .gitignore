@@ -2,3 +2,4 @@
 .settings/
 .classpath
 Test.java
+bin/
